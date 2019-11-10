@@ -1,0 +1,6 @@
+query allBooksQuery{
+  allBooks{
+    name
+    authorName
+  }
+}
